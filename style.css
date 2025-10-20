@@ -104,7 +104,7 @@ body {
     left: 50%;
     width: 20px;
     height: 20px;
-    background-image: url('imanight-mode.png');
+    background-image: url('images/night-mode.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -1629,4 +1629,5 @@ header{
         width: 20px;
         height: 20px;
     }
+
 }
